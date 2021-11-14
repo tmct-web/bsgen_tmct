@@ -1,0 +1,5 @@
+dest.inc
+/bin/Debug/
+/bin/Release/
+/obj/
+/sampledata/

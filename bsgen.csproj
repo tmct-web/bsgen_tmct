@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Product>Bit Stream Generator</Product>
+    <Copyright>©2021 tmct</Copyright>
+    <Version>1.0.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <SourceFile Include=".\src\*.cs"/>
+  </ItemGroup>
+
+</Project>
